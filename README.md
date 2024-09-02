@@ -11,4 +11,3 @@
 '''
 conda create -p bostonp python==3.7 -y
 '''
-2. installed packages
